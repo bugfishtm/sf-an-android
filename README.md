@@ -1,5 +1,8 @@
 # 📦 Android Module
 
+> [!Warning]
+> This repository is intended for developers or as a placeholder for Suitefish-related code, not for issue reporting. Please submit issues at https://github.com/bugfishtm/suitefish-cms/issues.
+
 ## 📙 Introduction 
 
 This application module is designed for deployment to Android devices through the Suitefish CMS store. To use this package, you must have the Suitefish Android app installed on your device or access to a valid Suitefish online instance for distributing applications to client devices. Alternatively, you can extract the package and install the app manually; however, this method does not support automatic updates.
